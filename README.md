@@ -1,2 +1,2 @@
 # webpro
-repository kerja webpro
+repository kerja Web Programming
